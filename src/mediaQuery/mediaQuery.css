@@ -1,0 +1,15 @@
+/* Media query for medium devices */
+@media only screen and (max-width: 900px) {
+  .logo-box img {
+    width: 35%;
+    height: 30%;
+  }
+}
+
+/* Media query for smaller devices */
+@media only screen and (max-width: 576px) {
+  .logo-box img {
+    width: 45%;
+    height: 35%;
+  }
+}
